@@ -2,4 +2,4 @@
 
 Olá! Bem-vindo ao meu livro de receitas :wave:
 
- - Strogonoff de Frango muito bom
+ - Strogonoff de Frango muito bom MASTER
